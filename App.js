@@ -15,7 +15,7 @@ export default function App(){
         <Footer />
     </SafeAreaView>
   )
-}
+}     
 function Header({pagina,setPagina}){
   return(
     <View style={ styles.Header}>
